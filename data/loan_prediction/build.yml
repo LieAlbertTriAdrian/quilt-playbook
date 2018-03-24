@@ -1,0 +1,7 @@
+contents:
+  README:
+    file: README.md
+  loan_test:
+    file: loan_test.csv
+  loan_train:
+    file: loan_train.csv
